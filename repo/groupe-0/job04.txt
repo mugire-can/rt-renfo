@@ -1,0 +1,9 @@
+
+mkdir tmp		=	créer un nouveau répertoire `tmp`
+
+mv tmp tmp2		=	renommer le répertoire en `tmp2
+
+mkdir tmp2/tmp3		=	créer un nouveau répertoire `tmp3` dans `tmp2`
+
+rm tmp2/tmp3		=	supprimer le répertoire `tmp3`
+

@@ -1,0 +1,10 @@
+
+echo "Hello, World!"	=	afficher à l'écran le texte "Hello, World!" avec retour à la ligne à la fin
+
+history			=	afficher votre historique de commandes shell
+
+touch yolo.md		=	créer un nouveau fichier `yolo.md`
+
+stat yolo.md		=	afficher les statistiques de le fichier 'yolo.md'
+
+rm yolo.md		=	supprimer le fichier 'yolo.md'
