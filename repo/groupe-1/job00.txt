@@ -1,0 +1,7 @@
+echo "Hello, World!" > yolo.md			=	créer un nouveau fichier `yolo.md` avec le contenu "Hello, World", avec retour à la ligne final.
+
+echo -n "Hello, La Plateforme" >> yolo.md	=	ajouter à ce fichier la ligne "Hello, la Plateforme", sans retour à la ligne.
+
+cp yolo.md yolo2.md				=	copier le fichier en `yolo2.md`.
+
+cat yolo2.md yolo.md				=	afficher le contenu de les deux fichiers, en commençant par le deuxième.

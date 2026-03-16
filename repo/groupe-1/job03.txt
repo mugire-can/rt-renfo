@@ -1,0 +1,12 @@
+mkdir test0		=	creer un folder 'test0'
+
+chmod 500 test0		=	authoriser que le propriétaire du folder a lire et executer, pas les autres
+
+touch test1		=	creer un fichier 'test1'
+
+echo 'test' > test1	=	ecrire 'test' en fichier 'test1'
+
+chmod 714 test1		=	authoriser le propriétaire du folder a lire, ecrire et executer, le groupe a execyter, les autres a lire
+
+ln -s test0 test2	=	creer un link symbolique du folder 'test0' au folder 'test2'	
+
