@@ -1,0 +1,12 @@
+
+touch yolo3.md		=	creer un fichier a tester
+
+echo "test" > yolo3.md	=	ajouter la ligne "test" an 'yolo3.md'
+
+chmod 246 yolo3.md	=	regler l'authorisation du fichier "yolo3.md" 2:write, 4:read, 6:read+execute+write
+
+La taille du contenu du fichier est 14 Bytes.
+
+'1' est le numero de ligne du fichier.
+
+'root' et 'root' sont le propetier du fichier. 

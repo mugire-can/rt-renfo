@@ -1,0 +1,6 @@
+
+head -n 2 groupe-1.md		=	afficher les deux premières lignes de `groupe-1.md`	
+
+tail  -n 10 groupe-1.md		=	afficher les dix dernières lignes de `groupe-1.md`
+
+which ls			=	afficher l'emplacement de la commande `ls` sur votre système
