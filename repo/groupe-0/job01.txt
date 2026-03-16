@@ -1,0 +1,7 @@
+
+ls -lahF  =  la commande attendue :
+	- elle liste les fichiers présents dans le répertoire courant, en format long
+	- et affiche les fichiers cachés...
+	- ...mais n'affiche pas `.` ni `..`
+	- les répertoires devraient être suivis d'un caractère `/`
+	- affiche les tailles de fichier en format "human-readable", avec des préfixes de taille (kilo, méga...).
