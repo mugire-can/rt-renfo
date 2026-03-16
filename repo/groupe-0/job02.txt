@@ -1,0 +1,6 @@
+
+cp groupe-0.md copy.md  =  copier le fichier `groupe-0.md` en `copy.md`
+
+mv copy.md copy2.md     =  renommer le fichier `copy.md` en `copy2.md`
+
+cat *.md 		=  afficher le contenu de tous les fichiers Markdown du répertoire
