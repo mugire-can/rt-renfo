@@ -1,15 +1,15 @@
-# BTP Cardio 💪
+# RUNTRACK RENFO
 
 A comprehensive collection of **shell command exercises** organized by difficulty level. This repository contains progressive lessons in bash/shell scripting fundamentals, perfect for learning and practicing command-line operations.
 
 ## 📚 Project Overview
 
-**BTP Cardio** is designed as a "cardio" (workout) for your command-line skills. Each group contains exercises that progressively build your shell command proficiency, from basic navigation to file manipulation and system operations.
+**Runtrack Renfo** is designed as a workout for your command-line skills. Each group contains exercises that progressively build your shell command proficiency, from basic navigation to file manipulation and system operations.
 
 ## 📁 Project Structure
 
 ```
-btp-cardio/
+rt-renfo/
 ├── README.md
 ├── .gitignore
 ├── groupe-0/          # Level 0 - Basics
@@ -175,4 +175,4 @@ Feel free to suggest improvements or additional exercises by opening an issue or
 
 ---
 
-**Happy coding! Keep your shell skills sharp with BTP Cardio! 💪**
+**Happy coding! Keep your shell skills sharp with Runtrack Renfo! 💪**
