@@ -1,0 +1,24 @@
+INFO 2025-12-16 08:10:12 USER=john Action=OPEN_FILE File=report.docx
+WARN 2025-12-09 08:11:04 USER=alice LowBattery Level=12%
+ERROR 2025-12-10 08:11:33 USER=bob DiskError Sector=49302
+DEBUG 2025-12-10 08:12:01 USER=john CacheRefresh Duration=132ms
+
+TASK 2025-11-07 08:12:30 USER=root CronJob=cleanup.sh Status=OK
+INFO 2025-12-02 08:13:10 USER=alice Action=SAVE_FILE File=notes.txt
+ERROR 2025-12-03 08:13:33 USER=john PermissionDenied Path=/data/shared/
+WARN 2025-12-03 08:14:01 USER=bob HighTemperature Sensor=CPU Temp=91C
+DEBUG 2025-10-05 08:14:22 USER=root ProcessStart Name=backup_service.sh PID=3241
+TASK 2025-10-03 08:15:00 USER=bob CronJob=sync.sh Status=FAIL
+
+INFO 2025-12-01 08:15:42 USER=root Action=LOGIN Terminal=tty1
+ERROR 2025-12-01 08:16:03 USER=alice ReadError Block=1293
+DEBUG 2025-11-30 08:16:52 USER=john MemoryUsage Used=1243MB Free=4058MB
+TASK 2025-11-15 08:17:00 USER=root CronJob=rotate_logs.sh Status=OK
+
+WARN 2025-12-03 08:17:40 USER=bob LowDiskSpace Free=512MB
+INFO 2025-12-04 08:18:05 USER=alice Action=CLOSE_FILE File=notes.txt
+ERROR 2025-12-05 08:18:33 USER=bob Timeout Operation=ProcessData
+DEBUG 2025-12-06 08:19:11 USER=john ThreadStart ID=18 Duration=3ms
+TASK 2025-12-065 08:19:50 USER=alice CronJob=cleanup_tmp.sh Status=OK
+INFO 2025-12-01 08:20:12 USER=root Action=LOGOUT Terminal=tty1
+`
